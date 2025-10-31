@@ -65,3 +65,5 @@ and the following line to execute:
 See specific readme in the **PEX-Clocktype** folder.  
 ## PEX-ComplexNumbers
 See specific readme in the **PEX-ComplexNumbers** folder.  
+## PEX-NewString
+See specific readme in the **PEX-NewString** folder.  

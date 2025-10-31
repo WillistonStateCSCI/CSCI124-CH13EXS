@@ -61,3 +61,5 @@ Enter the following line to compile:
 *g++ CH13EX10/CH13EX10.cpp CH13EX10/myStringImp.cpp -o CH13EX10/example10*  
 and the following line to execute:  
 *./CH13EX10/example10*  
+## PEX-ClockType
+See specific readme in the **PEX-Clocktype** folder.  

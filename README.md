@@ -37,4 +37,10 @@ Enter the following line to compile:
 *g++ CH13EX06/CH13EX06.cpp CH13EX06/rectangleTypeImp.cpp -o CH13EX06/example06*  
 and the following line to execute:  
 *./CH13EX06/example06*  
+## CH13EX07  (This is Example 13-6 in the text)
+This program shows how the stream insertion and extraction operators are overloaded for the class **rectangleType**.  
+Enter the following line to compile:  
+*g++ CH13EX07/CH13EX07.cpp CH13EX07/rectangleTypeImp.cpp -o CH13EX07/example07*  
+and the following line to execute:  
+*./CH13EX07/example07*  
 ## Next EX  

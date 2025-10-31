@@ -27,8 +27,14 @@ and the following line to execute:
 ## CH13EX05  (This is Example 13-4 in the text)
 This program overloads +, *, == and != for the class **rectangleType**.  
 These operators are overloaded as member functions.  
-Enter the following line tocompile:  
+Enter the following line to compile:  
 *g++ CH13EX05/CH13EX05.cpp CH13EX05/rectangleTypeImp.cpp -o CH13EX05/example05*  
 and the following line to execute:  
 *./CH13EX05/example05*  
+## CH13EX06  (This is Example 13-5 in the text)
+This program overloads + and == as nonmember friend functions of **rectangleType**.  
+Enter the following line to compile:  
+*g++ CH13EX06/CH13EX06.cpp CH13EX06/rectangleTypeImp.cpp -o CH13EX06/example06*  
+and the following line to execute:  
+*./CH13EX06/example06*  
 ## Next EX  

@@ -43,4 +43,10 @@ Enter the following line to compile:
 *g++ CH13EX07/CH13EX07.cpp CH13EX07/rectangleTypeImp.cpp -o CH13EX07/example07*  
 and the following line to execute:  
 *./CH13EX07/example07*  
+## CH13EX08  (This is Example 13-8 in the text)
+This program shows how to overload the assignment operator.  
+Enter the following line to compile:  
+*g++ CH13EX08/CH13EX08.cpp CH13EX08/classAssignmentOprImp.cpp -o CH13EX08/example08*  
+and the following line to execute:  
+*./CH13EX08/example08*  
 ## Next EX  

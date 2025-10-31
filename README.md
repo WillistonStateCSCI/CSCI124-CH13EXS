@@ -55,4 +55,9 @@ Enter the following line to compile:
 *g++ CH13EX09/templateLarger.cpp CH13EX09/myStringImp.cpp -o CH13EX09/example09*  
 and the following line to execute:  
 *./CH13EX09/example09*  
-## Next EX  
+## CH13EX10  (This is Example 13-9 in the text)
+The following example demonstrates the use of class templates.    
+Enter the following line to compile:  
+*g++ CH13EX10/CH13EX10.cpp CH13EX10/myStringImp.cpp -o CH13EX10/example10*  
+and the following line to execute:  
+*./CH13EX10/example10*  
